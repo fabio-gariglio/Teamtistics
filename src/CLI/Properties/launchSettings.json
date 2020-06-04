@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "Atlassian:Url=https://jira.thetrainline.com Atlassian:Username=fabiog Atlassian:Password=May2020?"
+    }
+  }
+}
